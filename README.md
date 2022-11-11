@@ -11,4 +11,4 @@ $ npm install https://github.com/ag4u/blessed/tarball/master
 ```
 
 ## Documentation
-[https://github.com/chjj/blessed](Original documentation)
+[Original documentation](https://github.com/chjj/blessed)
